@@ -1,6 +1,6 @@
-# Portfolio Optimization using Genetic Algorithm
+# Portfolio Optimization with Genetic Algorithm
 
-Optimasi portofolio saham menggunakan **Genetic Algorithm (GA)** untuk mencari alokasi bobot yang memaksimalkan trade-off antara return dan risiko.  
+Optimasi portofolio saham menggunakan **Genetic Algorithm** untuk mencari alokasi bobot yang memaksimalkan trade-off antara return dan risiko.  
 Studi kasus menggunakan saham perbankan Indonesia: **BBRI, BMRI, dan BBCA**.
 
 kenapa big banks? simpelnya liquid dan harga ga gampang digoreng.
