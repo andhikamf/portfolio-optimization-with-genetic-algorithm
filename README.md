@@ -77,7 +77,6 @@ Secara umum, GA menghasilkan alokasi yang lebih seimbang dan risk-adjusted retur
 - Tidak ada rebalancing periodik
 - Genetic Algorithm bersifat stochastic (hasil bisa berbeda setiap run)
 
-(masih pemula bang😅)
 ## Possible Improvements
 - Menambahkan risk-free rate
 - Rolling window optimization dan rebalancing
@@ -98,4 +97,4 @@ Secara umum, GA menghasilkan alokasi yang lebih seimbang dan risk-adjusted retur
 Project ini dibuat sebagai eksplorasi optimasi portofolio dan evolutionary algorithms.  
 Fokus utama ada pada **framework, reasoning, dan evaluasi risiko**, bukan nyari strategi “pasti profit”.
 
-Market itu noisy, so please DYOR😁.
+Market itu noisy, so please DYOR.
